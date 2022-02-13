@@ -1,0 +1,5 @@
+# Auto detect text files and perform normalization
+* text=auto
+
+*.kt   text
+*.xml   text diff=xml
